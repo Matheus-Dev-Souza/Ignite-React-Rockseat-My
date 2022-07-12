@@ -24,13 +24,6 @@
   </ol>
 </details>
 
-## About The Project
-<div align="center">
-  <img src="assets/project-screenshot.png" alt="MySkills Screen Shot" width="200"/>
-</div>
-<br/>
-<p align="center">A simple App for Skills management.<p>
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
