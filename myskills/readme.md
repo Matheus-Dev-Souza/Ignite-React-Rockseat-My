@@ -7,7 +7,7 @@
   <p align="center">
     An App to put your awesome skills!
     <br />
-    <a href="https://github.com/brunomestanza/ignite-react-native"><strong>Explore the projects »</strong></a>
+<strong>Explore the projects »</strong></a>
   </p>
 </div>
 
